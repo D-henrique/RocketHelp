@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/D-henrique/Rocket.Q/blob/main/README.md">
+  <a href="https://github.com/D-henrique/RocketHelp/blob/main/README.md">
    <img src="https://img.shields.io/badge/Lang-EN-blue" alt="Language of the ReadMe is English!" />
   </a>
-   <a href="https://github.com/D-henrique/Rocket.Q/blob/main/README.pt-br.md">
+   <a href="https://github.com/D-henrique/RocketHelp/blob/main/README.pt-br.md">
    <img src="https://img.shields.io/badge/Lang-PT--BR-brightgreen" alt="Language of the ReadMe is Brazilian Portuguese!" />
   </a>
 
