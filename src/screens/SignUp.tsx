@@ -105,7 +105,7 @@ export function SignUp() {
         />
 
         <Button
-          title="Registrar"
+          title="Cadastrar"
           w="full"
           onPress={handleSignUp}
           isLoading={isLoading}
