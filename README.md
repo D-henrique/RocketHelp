@@ -23,14 +23,19 @@
   <img alt="RocketHelp cover" src="src/assets/rocketHelp_cover.svg" width="100%">
 </p>
 
+<p align="center">
+  <img alt="RocketHelp project in gif format" src="src/assets/cover.gif" width="100%">
+</p>
+
 ## 🚀 Technologies
 
 This project was developed with the following technologies:
 
 - React Native
 - Firebase
-- Expo Go
-- NodeJS
+- Firebase Auth
+- Firebase FireStore with Real Time Updates
+- Expo Bare Workflow
 - TypeScript
 - Native Base
 
